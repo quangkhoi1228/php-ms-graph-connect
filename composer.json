@@ -1,0 +1,18 @@
+{
+    "name": "khoitran/php-ms-graph-connect",
+    "autoload": {
+        "psr-4": {
+            "Khoitran\\PhpMsGraphConnect\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khoitq-acl",
+            "email": "khoitq@americancodelab.com"
+        }
+    ],
+    "require": {
+        "microsoft/microsoft-graph": "^1.88",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
